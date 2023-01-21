@@ -2,5 +2,5 @@
 i apologize in advance.
 
 
-most of the code from this repo:
+Code sourced from:
 https://github.com/AmelNozieres/NLP_Generate_poems
